@@ -1,0 +1,11 @@
+F:\tav tamrin\DoctorApontment\DoctorApointment.Contracts\bin\Debug\net8.0\DoctorApointment.Contracts.deps.json
+F:\tav tamrin\DoctorApontment\DoctorApointment.Contracts\bin\Debug\net8.0\DoctorApointment.Contracts.dll
+F:\tav tamrin\DoctorApontment\DoctorApointment.Contracts\bin\Debug\net8.0\DoctorApointment.Contracts.pdb
+F:\tav tamrin\DoctorApontment\DoctorApointment.Contracts\obj\Debug\net8.0\DoctorApointment.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\tav tamrin\DoctorApontment\DoctorApointment.Contracts\obj\Debug\net8.0\DoctorApointment.Contracts.AssemblyInfoInputs.cache
+F:\tav tamrin\DoctorApontment\DoctorApointment.Contracts\obj\Debug\net8.0\DoctorApointment.Contracts.AssemblyInfo.cs
+F:\tav tamrin\DoctorApontment\DoctorApointment.Contracts\obj\Debug\net8.0\DoctorApointment.Contracts.csproj.CoreCompileInputs.cache
+F:\tav tamrin\DoctorApontment\DoctorApointment.Contracts\obj\Debug\net8.0\DoctorApointment.Contracts.dll
+F:\tav tamrin\DoctorApontment\DoctorApointment.Contracts\obj\Debug\net8.0\refint\DoctorApointment.Contracts.dll
+F:\tav tamrin\DoctorApontment\DoctorApointment.Contracts\obj\Debug\net8.0\DoctorApointment.Contracts.pdb
+F:\tav tamrin\DoctorApontment\DoctorApointment.Contracts\obj\Debug\net8.0\ref\DoctorApointment.Contracts.dll

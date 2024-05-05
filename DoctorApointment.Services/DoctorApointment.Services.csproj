@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DoctorApointment.Contracts\DoctorApointment.Contracts.csproj" />
+    <ProjectReference Include="..\DoctorApointment.Entitis\DoctorApointment.Entitis.csproj" />
+  </ItemGroup>
+
+</Project>

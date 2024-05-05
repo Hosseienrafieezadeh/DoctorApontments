@@ -1,0 +1,11 @@
+F:\tav tamrin\DoctorApontment\DoctorApointment.Entitis\bin\Debug\net8.0\DoctorApointment.Entitis.deps.json
+F:\tav tamrin\DoctorApontment\DoctorApointment.Entitis\bin\Debug\net8.0\DoctorApointment.Entitis.dll
+F:\tav tamrin\DoctorApontment\DoctorApointment.Entitis\bin\Debug\net8.0\DoctorApointment.Entitis.pdb
+F:\tav tamrin\DoctorApontment\DoctorApointment.Entitis\obj\Debug\net8.0\DoctorApointment.Entitis.GeneratedMSBuildEditorConfig.editorconfig
+F:\tav tamrin\DoctorApontment\DoctorApointment.Entitis\obj\Debug\net8.0\DoctorApointment.Entitis.AssemblyInfoInputs.cache
+F:\tav tamrin\DoctorApontment\DoctorApointment.Entitis\obj\Debug\net8.0\DoctorApointment.Entitis.AssemblyInfo.cs
+F:\tav tamrin\DoctorApontment\DoctorApointment.Entitis\obj\Debug\net8.0\DoctorApointment.Entitis.csproj.CoreCompileInputs.cache
+F:\tav tamrin\DoctorApontment\DoctorApointment.Entitis\obj\Debug\net8.0\DoctorApointment.Entitis.dll
+F:\tav tamrin\DoctorApontment\DoctorApointment.Entitis\obj\Debug\net8.0\refint\DoctorApointment.Entitis.dll
+F:\tav tamrin\DoctorApontment\DoctorApointment.Entitis\obj\Debug\net8.0\DoctorApointment.Entitis.pdb
+F:\tav tamrin\DoctorApontment\DoctorApointment.Entitis\obj\Debug\net8.0\ref\DoctorApointment.Entitis.dll

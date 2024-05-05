@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7KDDqwSAPBCq6LECQEELLGPQTAjM5NXT1bmXftY4rNk=",
+  "Source": "DoctorApointment.RestApi",
+  "BasePath": "_content/DoctorApointment.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\bin\Debug\net8.0\DoctorApointment.Services.deps.json
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\bin\Debug\net8.0\DoctorApointment.Services.dll
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\bin\Debug\net8.0\DoctorApointment.Services.pdb
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\bin\Debug\net8.0\DoctorApointment.Contracts.dll
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\bin\Debug\net8.0\DoctorApointment.Entitis.dll
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\bin\Debug\net8.0\DoctorApointment.Contracts.pdb
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\bin\Debug\net8.0\DoctorApointment.Entitis.pdb
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\obj\Debug\net8.0\DoctorApointment.Services.csproj.AssemblyReference.cache
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\obj\Debug\net8.0\DoctorApointment.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\obj\Debug\net8.0\DoctorApointment.Services.AssemblyInfoInputs.cache
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\obj\Debug\net8.0\DoctorApointment.Services.AssemblyInfo.cs
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\obj\Debug\net8.0\DoctorApointment.Services.csproj.CoreCompileInputs.cache
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\obj\Debug\net8.0\DoctorApointment.Services.csproj.CopyComplete
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\obj\Debug\net8.0\DoctorApointment.Services.dll
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\obj\Debug\net8.0\refint\DoctorApointment.Services.dll
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\obj\Debug\net8.0\DoctorApointment.Services.pdb
+F:\tav tamrin\DoctorApontment\DoctorApointment.Services\obj\Debug\net8.0\ref\DoctorApointment.Services.dll

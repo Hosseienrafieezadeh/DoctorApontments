@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DoctorApointment.Services/1.0.0": {
+        "dependencies": {
+          "DoctorApointment.Contracts": "1.0.0",
+          "DoctorApointment.Entitis": "1.0.0"
+        },
+        "runtime": {
+          "DoctorApointment.Services.dll": {}
+        }
+      },
+      "DoctorApointment.Contracts/1.0.0": {
+        "runtime": {
+          "DoctorApointment.Contracts.dll": {}
+        }
+      },
+      "DoctorApointment.Entitis/1.0.0": {
+        "runtime": {
+          "DoctorApointment.Entitis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoctorApointment.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorApointment.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorApointment.Entitis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
